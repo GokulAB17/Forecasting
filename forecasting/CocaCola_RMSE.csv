@@ -1,0 +1,8 @@
+,MODEL,RMSE_Values
+0,rmse_linear,591.5532957223963
+1,rmse_Exp,466.247973106726
+2,rmse_Quad,475.5618351831624
+3,rmse_add_sea,1860.0238154547278
+4,rmse_add_sea_quad,301.7380071934802
+5,rmse_Mult_sea,1963.38964007797
+6,rmse_Mult_add_sea,225.52439049830477
